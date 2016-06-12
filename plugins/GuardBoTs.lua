@@ -1,10 +1,10 @@
 local function run(msg, matches)
 local GuardBoTs = [[GuardBoTs Version : 1.0
-BoT Channel : @GuardBoTs_Ch
-BoT Sudo : @Reza_PoKer
-BoT Sudo Report : @Reza_Developer_BoT
+BoT Channel : @xxxxx
+BoT Sudo : @alfroshotak
+BoT Sudo Report : @alfroshotak_pm_bot
 BoT Pv : @GuardBoTs
-BoT Github : https://github.com/rezasoft/GuardBoTs]]
+BoT Github : https://github.com/amirf2020/GuardBoTs]]
 return GuardBoTs
 end
 return {
